@@ -1,0 +1,30 @@
+nav li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 15px;
+
+	background: black;
+
+
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	
+}
+
+body {
+	background-image: url("../img/img9.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat; 
+	background-position: center; 
+	background-attachment: fixed; 
+	background-size: cover;
+	margin-left: 30px;
+	margin-right: 40px;
+	text-align: justify;
+}
+.border{
+	border: 2px solid red;
+}
