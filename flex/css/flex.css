@@ -1,0 +1,20 @@
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+ }
+
+.flex-2 {
+  flex: 2;
+}
+
+
+.border1
+{
+
+  margin:4px;
+  border:2px red solid;
+  margin-bottom: 36px;
+}
